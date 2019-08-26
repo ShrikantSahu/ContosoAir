@@ -1,5 +1,5 @@
 
-
+[![Build Status](https://dev.azure.com/ShrikantRepo/GithubAzureDeveops/_apis/build/status/ShrikantSahu.ContosoAir?branchName=master)](https://dev.azure.com/ShrikantRepo/GithubAzureDeveops/_build/latest?definitionId=2&branchName=master)
 
 # Microsoft.Github CI Demo
 
